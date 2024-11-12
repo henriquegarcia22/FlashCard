@@ -1,4 +1,4 @@
-perguntas.js: 
+
 criaCartao(
 'Bíblia',
 'Qual é o livro mais curto da Bíblia?',
