@@ -7,18 +7,18 @@ criaCartao(
 
 criaCartao(
 'agricultura',
-'Quem escreveu a maioria dos Salmos?',
-'A maioria dos Salmos é atribuída ao rei Davi, embora outros autores também tenham contribuído.'
+'Quais são os principais cultivos do Brasil?',
+'Os principais cultivos incluem soja, milho, cana-de-açúcar, café, arroz e feijão.',
 )
 
 criaCartao(
 'agricultura',
-'Qual é o nome do primeiro homem criado segundo a Bíblia?',
-'O primeiro homem criado segundo a Bíblia é Adão.'
+'O que é agroecologia?',
+'É um sistema que integra práticas agrícolas sustentáveis com princípios ecológicos, promovendo a biodiversidade e a sustentabilidade do solo.',
 )
 
 criaCartao(
 'agricultura',
-'Qual é o principal ensinamento do Sermão da Montanha?',
-'O Sermão da Montanha, encontrado em Mateus 5-7, ensina sobre a ética do Reino de Deus, incluindo as bem-aventuranças e a importância do amor e da misericórdia.'
+'Como a tecnologia está mudando o setor agrícola?',
+'A tecnologia está introduzindo ferramentas como drones, sensores, big data e biotecnologia, melhorando a produtividade, reduzindo custos e permitindo decisões mais informadas.',
 )
