@@ -2,8 +2,7 @@
 criaCartao(
 'agricultura',
 'O que é agricultura de precisão?',
-'É uma abordagem que utiliza tecnologias avançadas (como GPS e sensores) para monitorar e gerenciar variabilidades nas lavouras, otimizando insumos e aumentando a eficiência.
-'
+'É uma abordagem que utiliza tecnologias avançadas (como GPS e sensores) para monitorar e gerenciar variabilidades nas lavouras, otimizando insumos e aumentando a eficiência.'
 )
 
 criaCartao(
